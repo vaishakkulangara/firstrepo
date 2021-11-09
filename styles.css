@@ -1,0 +1,28 @@
+body{
+    background-color:aquamarine;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    
+}
+li{
+    margin-left: 10px;
+}
+
+a{
+    text-decoration: none;
+}
+.home-img{
+ height: 100vh;   
+}
+.item-img{
+    height: 300px;
+    width: 400px;
+}
